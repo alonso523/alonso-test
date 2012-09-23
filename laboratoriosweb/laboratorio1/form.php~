@@ -1,0 +1,10 @@
+<html>
+<body>
+
+<form action="laboratorio1.php" method="post">
+Insertar palabra: <input type="text" name="palabra" />
+<input type="submit" />
+</form>
+
+</body>
+</html>

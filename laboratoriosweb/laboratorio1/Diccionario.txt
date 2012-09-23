@@ -1,0 +1,6 @@
+casa:Edificio para habitar.
+familia:Grupo de personas emparentadas entre sí que viven juntas.
+granja:Finca dedicada a la cría de animales.
+yunta: Par de bueyes.
+calibre: clase.
+rayar: hacer tiras o rayas.
